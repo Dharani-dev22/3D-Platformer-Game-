@@ -29,7 +29,7 @@ The Simple 3D Platformer Game is a 3D game developed in Unity where the player c
 
 ## 👨‍💻 Developer
 **Pondharani Devendra**
-* Information Technology Student | Full Stack Developer in Training
+* Information Technology Student | Full Stack Developer
 * S.I.W.S. Colleges, Mumbai, Maharashtra
 * **GitHub:** [@Dharani-dev22](https://github.com/Dharani-dev22)
 * **LinkedIn:** [Pondharani Devendra](https://www.linkedin.com/in/pondharani-devendra-a809b339b/)
